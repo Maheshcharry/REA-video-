@@ -21,3 +21,6 @@ scripts/roundtrip_compare.py
 tests/
 CHANGELOG.md
 CLAUDE.md
+
+# Local breakdown working files (source videos, stems, frames)
+work/
